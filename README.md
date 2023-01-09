@@ -1,2 +1,0 @@
-# devpos
-practice 
